@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # ViniandMelo
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinícius de Melo</h1>
-I'm a technology enthusiast with a passion for music and I love to learn about new languages and cultures. Specialized in quality assurance development in C#, JavaScript and Cypress. Currently looking for an internship or a job opportunity.
+I'm a technology enthusiast with a passion for music and I love to learn about new languages and cultures. Specialized in quality assurance development in C#, JavaScript and Cypress. Currently looking for a job opportunity.
 
 <br><br>
 
